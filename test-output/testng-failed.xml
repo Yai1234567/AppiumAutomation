@@ -6,6 +6,7 @@
       <class name="Appium.Automation.AppTest">
         <methods>
           <include name="LaunchApp"/>
+          <include name="verifyPreferenceScreen"/>
           <include name="verifyWifiScreen"/>
           <include name="Stop"/>
         </methods>
